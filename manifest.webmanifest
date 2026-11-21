@@ -1,0 +1,16 @@
+{
+  "name": "Keluarga Kita",
+  "short_name": "Keluarga Kita",
+  "description": "Keuangan, agenda, perawatan rumah, jurnal & zakat keluarga",
+  "start_url": "./",
+  "scope": "./",
+  "display": "browser",
+  "background_color": "#0f1712",
+  "theme_color": "#123d25",
+  "lang": "id",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
